@@ -6,7 +6,7 @@
 A repository is a folder of sorts for code. It is usually used to store code and resources for a specific project, and can be collaborated on by multiple 
 users. It also contains records of all code changes and interactions, including **branches**, **pull requests**, notes on bugs, and more.
 
-## Forks
+### Forks
 A **fork** is more or less a copy of a repository and its contents. Any changes made in a forked repo will not affect the original project, making forking
 an excellent way to put your own twist on someone else's project that you like and want to experiment with. However, the fork can be merged with the original
 repository through a **pull request** if the owner of the project thinks your edits are worth adopting. In this way, forks are also great for bug squashing.
