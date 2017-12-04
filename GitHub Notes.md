@@ -17,7 +17,7 @@ This main version is kept in the 'master' branch and can be added to through **p
 Editing the code on any branch- including the master- is done through **commits**, which are essentially 'saves' of the edits being made by the user. Each change to the code through
 commits is recorded as version history, allowing the file to be restored to an earlier version if necessary.
 
-### Pull requests
+### Pull Requests
 A **pull request** is simply a request to merge a **fork** or **branch** into the main project or master branch. These requests are usually intiated after the 
 spin-off code has been finished and checked and is considered ready (and stable enough) to be added to the official version. After a request is made,
 the project owner and the initiator of the request can review the changes together and merge them in either automatically (when there are no conflicts) or manually
